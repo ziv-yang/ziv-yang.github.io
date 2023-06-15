@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zivyang.xyz</id>
+    <title>ziv&apos;s blog</title>
+    <updated>2023-06-15T17:28:33.261Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zivyang.xyz"/>
+    <link rel="self" href="https://zivyang.xyz/atom.xml"/>
+    <subtitle>此后如竟没有炬火，我便是唯一的光</subtitle>
+    <logo>https://zivyang.xyz/images/avatar.png</logo>
+    <icon>https://zivyang.xyz/favicon.ico</icon>
+    <rights>All rights reserved 2023, ziv&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[从这里开始！！！]]></title>
+        <id>https://zivyang.xyz/cong-zhe-li-kai-shi/</id>
+        <link href="https://zivyang.xyz/cong-zhe-li-kai-shi/">
+        </link>
+        <updated>2022-12-18T09:51:26.000Z</updated>
+        <content type="html"><![CDATA[<p>一直有一个关于写作的梦想<br>
+但从未去准备<br>
+于是像现在这样<br>
+也只是说说而已<br>
+我常常觉得做一件事<br>
+需要相当的专业程度<br>
+至少在同行眼里看来<br>
+你的作品是经得起推敲和品味的<br>
+这样才对的起阅读你作品的人<br>
+保持对待事物、人的敬畏之心<br>
+所以关于要写作这件事<br>
+我觉得至少要积累一定量的写作技巧，常用叙事结构，情节安排等等相关的基础知识<br>
+才配得上写作者一词<br>
+今天先把这篇起点式文章先放在这里<br>
+或许我会继续这个梦想<br>
+又或许会没有坚持下去<br>
+这样说给人一种坚持就会很累的感觉<br>
+把坚持换成爱好或是兴趣我认为更好一些<br>
+不需要坚持<br>
+兴趣就已经足够支持我们持续去做这件事了<br>
+不管怎样<br>
+先开始<br>
+今天日期<br>
+2022年12月18日<br>
+我坐在床上，肚子以下在被窝里<br>
+被窝里有一只梅花（我的猫）<br>
+就从这里开始！！！</p>
+]]></content>
+    </entry>
+</feed>
